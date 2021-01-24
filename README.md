@@ -1,3 +1,16 @@
+
+Now we will run my example using the below Url in the postman or other API tools.
+
+List API: http://localhost:8000/api/crud ( Method:- GET)
+
+Create API: http://localhost:8000/api/crud (Method:- POST)
+
+Find API: http://localhost:8000/api/crud/{user_id} (Method:- GET)
+
+Update API: http://localhost:8000/api/crud (Method:- PUT)
+
+Delete API: http://localhost:8000/api/crud/{user_id} (Method:- DELETE)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
